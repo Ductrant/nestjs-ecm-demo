@@ -9,4 +9,4 @@
 - Allows for simple API testing without the need for Postman
 
 ## Postman
-![Postman](https://i.postimg.cc/Gpr2CkCq/Postman.png)
+![Postman](https://imgtr.ee/images/2024/08/29/7e6f632919a3611d26afc0c7cc53a8ad.png)
