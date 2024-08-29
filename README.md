@@ -1,9 +1,12 @@
 # Demo API For E-commerce Website
-- Communicate to DB using MySql
-- Create Category and Product CRUD API (Demo)
+- Communicates with the database using MySQL
+- Creates Category and Product CRUD APIs (Demo)
+- Adds filter and search functionality
 
 ## Swagger
-- Using Swagger for easy tracking - maintain API
-- Can simple test API instead of using Postman
+![Swagger UI](https://postimg.cc/rK5K9jLt)
+- Utilizes Swagger for easy API tracking and maintenance
+- Allows for simple API testing without the need for Postman
 
 ## Postman
+![Postman](https://postimg.cc/mPXR31hH)
