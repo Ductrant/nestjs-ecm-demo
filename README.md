@@ -4,8 +4,7 @@
 - Adds filter and search functionality
 
 ## Swagger
-![Swagger UI](https://i.postimg.cc/jjmRjPVp/1.png)
-![Swagger UI](https://i.postimg.cc/gjqp47wp/2.png)
+![Swagger UI](https://imgur.com/a/SPrvNnX)
 - Utilizes Swagger for easy API tracking and maintenance
 - Allows for simple API testing without the need for Postman
 
